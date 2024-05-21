@@ -4,7 +4,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/cworld1/rust-learning?style=flat-square)](https://github.com/cworld1/unity-learning/stargazers)
 [![GitHub license](https://img.shields.io/github/license/cworld1/rust-learning?style=flat-square)](https://github.com/cworld1/unity-learning/blob/main/LICENSE)
 
-Some notes and code about CWorld learning Unity.
+Some notes and code about CWorld learning Rust.
 
 ## Local Development
 
